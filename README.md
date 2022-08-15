@@ -8,7 +8,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![canvas.png]
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ### Links
 
@@ -31,10 +31,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 body{
 background-position: bottom 29vh right 53vw, top 57vh left 36vw;
 }
+```
 
 
-
-## Author
+### Author
 
 - Instagram - [ashhilalo]
 
